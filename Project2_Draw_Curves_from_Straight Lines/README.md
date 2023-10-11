@@ -1,3 +1,5 @@
+Read the PDF first!!!
+
 The website inspired me the most: https://www.mrsmilewski.com/parabolic-curve.html
 
 • For descriptions of the technique and samples of output, see these sites:
