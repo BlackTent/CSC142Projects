@@ -1,10 +1,12 @@
-# CSC142Project
-These projects are from CSC142 Java class.            
+# CSC142Project  
+These projects are from CSC142 Java class.              
 
-Project name: 
+Project name:   
 
-Project 1: Console-based Plotting
+Project 1: Console-based Plotting  
 
-Project 2: Draw Curves from Straight Lines 
-(You need to drop this DrawingPanel.java file into your folder)   
+Project 2: Draw Curves from Straight Lines   
+(You have to drop the DrawingPanel.java file in your folder if there wasn't to do the project)   
+
+
 
